@@ -1,0 +1,6 @@
+@MeterReadingApi_HostAddress = https://localhost:7245
+
+GET {{MeterReadingApi_HostAddress}}/api/Accounts/
+Accept: application/json
+
+###

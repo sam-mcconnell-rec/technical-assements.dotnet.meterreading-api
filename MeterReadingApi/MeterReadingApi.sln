@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeterReadingApi.RestfulAPI", "MeterReadingApi\MeterReadingApi.RestfulAPI.csproj", "{A81EDEAB-3A13-42AD-B08F-7B6B0E57FE43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeterReadingApi.Core", "MeterReadingAPI.Core\MeterReadingApi.Core.csproj", "{B04C9FB9-987F-4CBA-91ED-C93B406E8D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeterReadingApi.DataAccess", "MeterReadingAPI.DataAccess\MeterReadingApi.DataAccess.csproj", "{A6571D99-29B1-4B1B-AE56-B0CDCFF1AA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81EDEAB-3A13-42AD-B08F-7B6B0E57FE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81EDEAB-3A13-42AD-B08F-7B6B0E57FE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81EDEAB-3A13-42AD-B08F-7B6B0E57FE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81EDEAB-3A13-42AD-B08F-7B6B0E57FE43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04C9FB9-987F-4CBA-91ED-C93B406E8D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04C9FB9-987F-4CBA-91ED-C93B406E8D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04C9FB9-987F-4CBA-91ED-C93B406E8D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04C9FB9-987F-4CBA-91ED-C93B406E8D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6571D99-29B1-4B1B-AE56-B0CDCFF1AA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6571D99-29B1-4B1B-AE56-B0CDCFF1AA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6571D99-29B1-4B1B-AE56-B0CDCFF1AA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6571D99-29B1-4B1B-AE56-B0CDCFF1AA04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
