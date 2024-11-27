@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeterReadingApi.Core", "Met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeterReadingApi.DataAccess", "MeterReadingAPI.DataAccess\MeterReadingApi.DataAccess.csproj", "{A6571D99-29B1-4B1B-AE56-B0CDCFF1AA04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeterReadingApi.Tests", "MeterReadingApi.Tests\MeterReadingApi.Tests.csproj", "{3748B9D6-290E-48F5-A8BA-2025019A39F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A6571D99-29B1-4B1B-AE56-B0CDCFF1AA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6571D99-29B1-4B1B-AE56-B0CDCFF1AA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6571D99-29B1-4B1B-AE56-B0CDCFF1AA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3748B9D6-290E-48F5-A8BA-2025019A39F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3748B9D6-290E-48F5-A8BA-2025019A39F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3748B9D6-290E-48F5-A8BA-2025019A39F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3748B9D6-290E-48F5-A8BA-2025019A39F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
